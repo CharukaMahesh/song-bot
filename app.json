@@ -1,7 +1,7 @@
 {
-  "name": "YourBot",
-  "description": "Javascript WhatsApp bot made by YourName",
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
+  "name": "Song Bot",
+  "description": "Song Download Bot Created By Charuka Mahesh",
+  "logo": "https://raw.githubusercontent.com/CharukaMahesh/song-bot/refs/heads/main/IMAGES/20240923_114717.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -18,7 +18,7 @@
     
     "ALIVE_MSG": {
       "description": "Put your alive msg here.",
-      "required": true
+      "required": false
     }   
 },
 
